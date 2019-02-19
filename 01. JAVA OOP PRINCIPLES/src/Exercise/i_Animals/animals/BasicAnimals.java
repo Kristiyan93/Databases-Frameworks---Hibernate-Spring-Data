@@ -1,7 +1,5 @@
 package Exercise.i_Animals.animals;
 
-import Exercise.i_Animals.interfaces.Animals;
-
 public abstract class BasicAnimals implements Animals {
     private String name;
     private int age;

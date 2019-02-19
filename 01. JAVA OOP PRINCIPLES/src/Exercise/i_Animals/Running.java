@@ -1,7 +1,7 @@
 package Exercise.i_Animals;
 
 import Exercise.i_Animals.animals.*;
-import Exercise.i_Animals.interfaces.Animals;
+import Exercise.i_Animals.animals.Animals;
 
 import java.util.ArrayList;
 import java.util.List;
