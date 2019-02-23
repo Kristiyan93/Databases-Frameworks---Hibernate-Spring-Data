@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/A_STACKS AND QUEUES/A_STACKS AND QUEUES.iml" filepath="$PROJECT_DIR$/A_STACKS AND QUEUES/A_STACKS AND QUEUES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B_MULTIDIMENSIONAL ARRAYS/B_MULTIDIMENSIONAL ARRAYS.iml" filepath="$PROJECT_DIR$/B_MULTIDIMENSIONAL ARRAYS/B_MULTIDIMENSIONAL ARRAYS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C_SETS AND MAPS/C_SETS AND MAPS.iml" filepath="$PROJECT_DIR$/C_SETS AND MAPS/C_SETS AND MAPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/D_STREAMS, FILES AND DIRECTORIES/D_STREAMS, FILES AND DIRECTORIES.iml" filepath="$PROJECT_DIR$/D_STREAMS, FILES AND DIRECTORIES/D_STREAMS, FILES AND DIRECTORIES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E_FUNCTIONAL PROGRAMMING/E_FUNCTIONAL PROGRAMMING.iml" filepath="$PROJECT_DIR$/E_FUNCTIONAL PROGRAMMING/E_FUNCTIONAL PROGRAMMING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/F_DEFINING CLASSES/F_DEFINING CLASSES.iml" filepath="$PROJECT_DIR$/F_DEFINING CLASSES/F_DEFINING CLASSES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/G_GENERICS/G_GENERICS.iml" filepath="$PROJECT_DIR$/G_GENERICS/G_GENERICS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/H_ITERATORS AND COMPARATORS/H_ITERATORS AND COMPARATORS.iml" filepath="$PROJECT_DIR$/H_ITERATORS AND COMPARATORS/H_ITERATORS AND COMPARATORS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Advanced - 2019.iml" filepath="$PROJECT_DIR$/Java Advanced - 2019.iml" />
+    </modules>
+  </component>
+</project>
